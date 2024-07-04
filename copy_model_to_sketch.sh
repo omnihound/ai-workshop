@@ -1,0 +1,1 @@
+cp -a ./model_result/ ./sketch/public/

@@ -1,0 +1,5 @@
+node_modules/
+model_result/
+convolutional/
+cartoon/
+.DS_Store
